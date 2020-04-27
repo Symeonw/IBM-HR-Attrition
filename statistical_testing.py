@@ -29,6 +29,7 @@ for col in df.columns:
 # worklifebalance: dependent, H0 rejected.
 # stockoptionlevel: dependent, H0 rejected.
 # environmentsatisfaction: dependent, H0 rejected.
+
 # relationshipsatisfaction: independent, failed to reject H0.
 # performancerating: independent, failed to reject H0.
 # education: independent, failed to reject H0.
